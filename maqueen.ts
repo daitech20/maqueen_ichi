@@ -34,7 +34,7 @@ interface KV {
     action: Action;
 }
 
-//% weight=100 color=#008B00 icon="\uf136" block="Maqueen ichi"
+//% weight=100 color=#008B00 icon="\uf136" block="Maqueenichi"
 //% groups=['micro:bit(v2)']
 namespace maqueen {
     let kbCallback: KV[] = []
